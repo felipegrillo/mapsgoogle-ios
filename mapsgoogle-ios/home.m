@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 felipe. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "home.h"
 
-@interface ViewController ()
+@interface home ()
 
 @end
 
-@implementation ViewController
+@implementation home
 
 - (void)viewDidLoad {
     [super viewDidLoad];
